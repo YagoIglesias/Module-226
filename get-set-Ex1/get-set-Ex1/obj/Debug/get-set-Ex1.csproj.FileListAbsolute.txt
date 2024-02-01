@@ -1,0 +1,16 @@
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.exe.config
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.exe
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.pdb
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.AssemblyReference.cache
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.SuggestedBindingRedirects.cache
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.CoreCompileInputs.cache
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.exe
+D:\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.pdb
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.exe.config
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\bin\Debug\get-set-Ex1.pdb
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.AssemblyReference.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.csproj.CoreCompileInputs.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\get-set-Ex1\get-set-Ex1\obj\Debug\get-set-Ex1.pdb
