@@ -1,0 +1,8 @@
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\bin\Debug\P_spaceInvader.exe.config
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\bin\Debug\P_spaceInvader.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\bin\Debug\P_spaceInvader.pdb
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\obj\Debug\P_spaceInvader.csproj.AssemblyReference.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\obj\Debug\P_spaceInvader.csproj.SuggestedBindingRedirects.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\obj\Debug\P_spaceInvader.csproj.CoreCompileInputs.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\obj\Debug\P_spaceInvader.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\P_spaceInvader\P_spaceInvader\obj\Debug\P_spaceInvader.pdb
