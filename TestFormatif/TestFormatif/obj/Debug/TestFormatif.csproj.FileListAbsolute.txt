@@ -1,0 +1,8 @@
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\bin\Debug\TestFormatif.exe.config
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\bin\Debug\TestFormatif.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\bin\Debug\TestFormatif.pdb
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\obj\Debug\TestFormatif.csproj.AssemblyReference.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\obj\Debug\TestFormatif.csproj.SuggestedBindingRedirects.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\obj\Debug\TestFormatif.csproj.CoreCompileInputs.cache
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\obj\Debug\TestFormatif.exe
+C:\Users\pw17kto\Desktop\Programmation\Module-226\TestFormatif\TestFormatif\obj\Debug\TestFormatif.pdb
