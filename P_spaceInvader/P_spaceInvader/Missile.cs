@@ -127,29 +127,44 @@ namespace P_spaceInvader
         /// <summary>
         /// mettre a jour le missile
         /// </summary>
-        public void Update(double speed)
+        public void Update(double speed,int posX,int posY)
         {
             // vitesse du missile 
             _speed = speed;
+            // position du vaiseau sur l'axeX
+            _positionX = posX;
+            // position du vaiseau sur l'axeY
+            _positionY = posY;
+
+
             // dessiner le missile jusqu'a la hauteur max
-            for (int i = 40; i > 0; i--)
+            for (int i = 0; i < Console.WindowHeight-3; i++)
             {
                 // possitioner le courseur
-                Console.SetCursorPosition(PositionX,(PositionY - 1) * Convert.ToInt32(_speed));
+                Console.SetCursorPosition(_positionX,_positionY--);
                 // voir le missile
                 Thread.Sleep(Convert.ToInt32(speed));
                 // dessiner le vaiseau
                 Draw();
-                
-                
+                // possitioner le courseur
+                Console.SetCursorPosition(_positionX, _positionY);
+                Console.WriteLine("   ");
+
+                // si le missile attaint la hauteur maximale 
+                if (_positionY == Console.WindowHeight-36)
+                {
+                    _lives = 0;
+                    Console.SetCursorPosition(_positionX, _positionY);
+                    Draw();
+
+                }
 
             }
+            // une fois le misile finis son parcours on lui rajoute une vie
+            _lives = 1;
 
-            Lives = 0;
-            // verifier que le missile est en vie
+            // on crée un nouveau 
             IsAlive();
-            
-            
 
         }
 
@@ -158,10 +173,15 @@ namespace P_spaceInvader
         /// </summary>
         public void Draw()
         {
-            // position du courseur dans l'axe X et Y
-            Console.SetCursorPosition(PositionX,PositionY-1);
-            // dessiner la forme du missile
-            Console.WriteLine(_symbole);
+            // si le misile a une vie on peut le dessiner 
+            if (_lives > 0)
+            {
+                // position du courseur dans l'axe X et Y
+                Console.SetCursorPosition(_positionX, _positionY - 1);
+                // dessiner la forme du missile
+                Console.WriteLine(_symbole);
+            }
+
 
         }
 
@@ -177,6 +197,13 @@ namespace P_spaceInvader
             if (Lives > 0)
             {
                 isAlive = true;
+            }
+            // si le missile a pas de vie on l'efface
+            else
+            {
+                isAlive = false;
+                _symbole = " ";
+                Console.WriteLine(_symbole);
             }
             return isAlive;
         }

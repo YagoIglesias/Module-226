@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|c:\\users\\pw17kto\\desktop\\programmation\\module-226\\p_spaceinvader\\p_spaceinvader\\bunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\bunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\p_spaceinvader\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBEFFB1-8021-49C9-9777-942158CEF69A}|P_spaceInvader\\P_spaceInvader.csproj|solutionrelative:p_spaceinvader\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bunker.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Bunker.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Bunker.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Bunker.cs",
+              "RelativeToolTip": "P_spaceInvader\\Bunker.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:40:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Missile.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Missile.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Missile.cs",
+              "RelativeToolTip": "P_spaceInvader\\Missile.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAADwv4wAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:39:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpaceShip.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\SpaceShip.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\SpaceShip.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\SpaceShip.cs",
+              "RelativeToolTip": "P_spaceInvader\\SpaceShip.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAwKcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:09:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Window.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Window.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Window.cs",
+              "RelativeToolTip": "P_spaceInvader\\Window.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:06:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Game.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Game.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Game.cs",
+              "RelativeToolTip": "P_spaceInvader\\Game.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:04:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Menu.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Menu.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Menu.cs",
+              "RelativeToolTip": "P_spaceInvader\\Menu.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:01:40.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Program.cs",
+              "RelativeDocumentMoniker": "P_spaceInvader\\Program.cs",
+              "ToolTip": "C:\\Users\\pw17kto\\Desktop\\Programmation\\Module-226\\P_spaceInvader\\P_spaceInvader\\Program.cs",
+              "RelativeToolTip": "P_spaceInvader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:59:30.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

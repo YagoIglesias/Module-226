@@ -64,10 +64,6 @@ namespace P_spaceInvader
             set { _symbole = value; }
         }
 
-        /// <summary>
-        /// creation d'un missile 
-        /// </summary>
-        Missile missile = new Missile(positionX:75,positionY:40,lives:1,symbole: " ± ");
 
         /// <summary>
         /// contructeur du vaiseau qui permet d'initialiser la position, le nombre de vies et l'image du vaisseau
@@ -125,7 +121,7 @@ namespace P_spaceInvader
             if (Keyboard.IsKeyDown(Key.Space))
             {
                 // tir du missile 
-                Shoot();
+                Shoot(); 
             }
                 
         }
@@ -156,19 +152,24 @@ namespace P_spaceInvader
         }
 
         /// <summary>
+        /// creation d'un missile 
+        /// </summary>
+        Missile missile = new Missile(positionX: 75, positionY: 40, lives: 1, symbole: "  ± ");
+
+        /// <summary>
         /// méthode pour tirer un missile 
         /// </summary>
         public void Shoot()
         {
             // si il n'y a pas de missile ou qu'un missile à plus de vie 
-            if (missile.Lives == 0)
+            if (missile.Lives > 0)
             {
                 // rajouter une vie 
                 missile.Lives = 1;
                 // dire que le missile est en vie
                 missile.IsAlive();
                 // faire bouger le missile
-                missile.Update(speed:20);
+                missile.Update(speed:15,posX:PositionX,posY:PositionY);
 
             }
             
